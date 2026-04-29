@@ -1,0 +1,13 @@
+{
+  "mangobingsu-myrealtrip:sample-osaka-1": {
+    "source": "mangobingsu-myrealtrip",
+    "id": "sample-osaka-1",
+    "title": "오사카 유니버설 스튜디오 재팬 1일권",
+    "url": "https://www.myrealtrip.com/",
+    "minPrice": 82000,
+    "lastPrice": 82000,
+    "lastSeenAt": "2026-04-29T12:33:09.061Z",
+    "firstSeenAt": "2026-04-29T12:21:23.335Z",
+    "reviewScore": 4.8
+  }
+}
